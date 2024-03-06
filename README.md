@@ -6,9 +6,9 @@
 An addon to Meteor Client that adds various modules designed to lag and crash servers. 
 </p>
 <div align="center">
-  <a href="https://anticope.github.io/meteor-lists/pages/MeteorAddons.html"><img src="https://img.shields.io/badge/Verified%20Addon-Yes-blueviolet" alt="Verified Addon"><a/>
+  <a href="https://anticope.github.io/meteor-lists/pages/MeteorAddons.html"><img src="https://img.shields.io/badge/Verified%20Addon-No-blueviolet" alt="Unverified Addon"><a/>
   <img src="https://img.shields.io/badge/Version-v0.2-orange" alt="Version">
-  <img src="https://img.shields.io/badge/Minecraft%20Version-1.18.2-blue" alt="Minecraft Version">
+  <img src="https://img.shields.io/badge/Minecraft%20Version-1.20.4-blue" alt="Minecraft Version">
   <img src="https://img.shields.io/github/last-commit/AntiCope/meteor-crash-addon?logo=git" alt="Last commit">
   <img src="https://img.shields.io/github/workflow/status/AntiCope/meteor-crash-addon/Java%20CI%20with%20Gradle?logo=github" alt="build status">
   <img src="https://img.shields.io/github/languages/code-size/AntiCope/meteor-crash-addon" alt="Code Size">
