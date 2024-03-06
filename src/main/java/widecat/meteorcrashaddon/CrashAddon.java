@@ -18,7 +18,7 @@ public class CrashAddon extends MeteorAddon {
 
     @Override
     public void onInitialize() {
-        LOG.info("Initializing Meteor Crash Addon.");
+        LOG.info("Initializing Meteor Crash Addon...");
 
         Modules.get().add(new AACCrash());
         Modules.get().add(new BookCrash());
